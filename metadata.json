@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Post Generator",
+  "description": "An application to create Instagram posts based on a fixed template. Users can provide a title and a background image to generate a new post for download.",
+  "requestFramePermissions": []
+}
